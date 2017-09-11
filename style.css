@@ -2,13 +2,13 @@
 	background-color: rgb(255,255,255);
 }
 p{
-	font-family: arial; color: rgb(0,0,0);
+	font-family: arial; color: rgb(0,0,0); font-size: 11;
 }
 h1{
-	font-family: impact; color: rgb(0,0,0);
+	font-family: impact; color: rgb(0,0,0); font-size: 40;
 }
 h2{
-	font-family: impact; color: rgb(255,0,0);
+	font-family: impact; color: rgb(255,0,0); font-size: 26;
 }
 all-pets{
 	align-content: center; size: 800x600;
